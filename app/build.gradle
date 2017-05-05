@@ -31,7 +31,7 @@ android {
 
         }
     }
-}
+
 //相关依赖包
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
